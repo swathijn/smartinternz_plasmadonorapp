@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for, session
 import ibm_db
 import json
-import requests
+#import requests
 
 app = Flask(__name__)
 
